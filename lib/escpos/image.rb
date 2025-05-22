@@ -1,5 +1,4 @@
 require_relative "errors"
-require_relative "helpers"
 require_relative "image_processors/chunky_png"
 require_relative "image_processors/mini_magick"
 
